@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TicTacToe-La-Vieja-.git/static/css/main.74c759b3.chunk.css",
+    "main.js": "/TicTacToe-La-Vieja-.git/static/js/main.b60ed996.chunk.js",
+    "main.js.map": "/TicTacToe-La-Vieja-.git/static/js/main.b60ed996.chunk.js.map",
+    "runtime-main.js": "/TicTacToe-La-Vieja-.git/static/js/runtime-main.364cbfd0.js",
+    "runtime-main.js.map": "/TicTacToe-La-Vieja-.git/static/js/runtime-main.364cbfd0.js.map",
+    "static/js/2.10a84f0b.chunk.js": "/TicTacToe-La-Vieja-.git/static/js/2.10a84f0b.chunk.js",
+    "static/js/2.10a84f0b.chunk.js.map": "/TicTacToe-La-Vieja-.git/static/js/2.10a84f0b.chunk.js.map",
+    "index.html": "/TicTacToe-La-Vieja-.git/index.html",
+    "static/css/main.74c759b3.chunk.css.map": "/TicTacToe-La-Vieja-.git/static/css/main.74c759b3.chunk.css.map",
+    "static/js/2.10a84f0b.chunk.js.LICENSE.txt": "/TicTacToe-La-Vieja-.git/static/js/2.10a84f0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.364cbfd0.js",
+    "static/js/2.10a84f0b.chunk.js",
+    "static/css/main.74c759b3.chunk.css",
+    "static/js/main.b60ed996.chunk.js"
+  ]
+}
